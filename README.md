@@ -1,8 +1,7 @@
-# Creative Booster
+# Mastodon Instance Booster
 ## 概要
 
-Creatodonにて運用している、創作関係の単語を含むTootを定期的にBoostしてくれるもの
-キーワードなどはKeywordモデルを使用して随時追加中
+Creatodonにて運用している、#インスタンス紹介 を含むTootを定期的にBoostしてくれるもの
 
 ## 環境
 Ruby on Rails 5.2.0rc2
